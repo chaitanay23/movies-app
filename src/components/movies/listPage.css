@@ -1,0 +1,28 @@
+.list_page_bg {
+  background-color: black;
+}
+
+.container {
+  padding-right: 30px;
+  padding-left: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-bottom: 30px;
+}
+
+.list-row {
+  display: flex;
+}
+
+.heading {
+  color: white;
+}
+
+.select-type {
+  background: black;
+  color: white;
+  height: 28px;
+  width: 150px;
+  margin-top: 35px;
+  margin-left: 59px;
+}
